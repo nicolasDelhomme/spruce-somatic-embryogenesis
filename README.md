@@ -1,7 +1,7 @@
-# Project template
-This is the project template from the Umeå Plant Science Centre Bioinformatics Facility. 
+# Spruce Somatic Embryogenesis
 
-## How to
+## Setup
 
-To use it for your project, you can check this [GitHub gist](https://gist.gthub.com/nicolasDelhomme/46a1053d277510b95692318bd1732b6d)
-
+```bash
+ln -s /mnt/picea/projects/spruce/uegertsdotter/22_Somatic_Embryogenesis_Project data
+```
